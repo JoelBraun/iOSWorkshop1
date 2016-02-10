@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.6 clang-703.0.16)"
+options: "06aa2c5b1108caf35c868c991b6d49c7"
+build_time: [508390342, 466633000]
+inputs:
+  "/Users/joel/HelloWorld/HelloWorld/ViewController.swift": [508390339, 0]
+  "/Users/joel/HelloWorld/HelloWorld/AppDelegate.swift": [508390339, 0]
